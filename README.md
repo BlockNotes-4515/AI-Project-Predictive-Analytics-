@@ -100,10 +100,11 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 </p>
 
 <hr>
+
 ## Contributing
 Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
 <br>
-<h1 align="center">Team Members: (WHITE ELEPHANT) of AI Project!</h1>
+<h1 align="center">Technology Used In a Project!</h1>
 <hr>
 
 <p align="center">
@@ -141,6 +142,12 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
         <td>Icon & Responsive</td>
         <td>Framework</td>
       </tr>
+     <tr>
+       <td>005</td>
+       <td>Jupyter / Google (Collab)</td>
+       <td>Machine Learning</td>
+       <td>Python (Liner Regression Model)</td>
+     </tr> 
     </tbody>
   </table>
 </p>

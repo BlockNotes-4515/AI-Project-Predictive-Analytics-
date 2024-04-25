@@ -5,7 +5,7 @@ Predictive Analytics (Weather APP API) to Requirement, Testing, Training, Deploy
 <hr>
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
-    <img src="Banner.png" height="60%" width="60%" border="2" alt="This is My Logo!">
+    <img src="images/Banner.png" height="60%" width="60%" border="2" alt="This is My Logo!">
   </a>
 </p>
 

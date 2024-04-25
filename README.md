@@ -100,6 +100,50 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 </p>
 
 <hr>
+## Contributing
+Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
+<br>
+<h1 align="center">Team Members: (WHITE ELEPHANT) of AI Project!</h1>
+<hr>
+
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>S.NO: </th>
+        <th>Language Used</th>
+        <th>API Key</th>
+        <th>Role</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>001</td>
+        <td>HTML(5)</td>
+        <td>WEATHER APIt</td>
+        <td>Structuring</td>
+      </tr>
+      <tr>
+        <td>002</td>
+        <td>CSS(3)</td>
+        <td>WEATHER API</td>
+        <td>Styling</td>
+      </tr>
+      <tr>
+        <td>003</td>
+        <td>JavaScript(JS)</td>
+        <td>Run WEATHER API</td>
+        <td>Functioning</td>
+      </tr>
+      <tr>
+        <td>004</td>
+        <td>Bootstrap</td>
+        <td>Icon & Responsive</td>
+        <td>Framework</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
 
 
 ## Roadmap  ========>

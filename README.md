@@ -207,7 +207,7 @@ For any inquiries or support, feel free to contact me at [your-dhayaldhruv271@gm
 <hr>
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public Lisence](LICENSE).
 
 <hr><hr>
 Special thanks to the WeatherApp API for providing the weather data used in this project.
